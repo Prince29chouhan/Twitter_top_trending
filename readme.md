@@ -26,11 +26,11 @@ Before running the app, make sure you have the following installed:
 1. **Clone the repository**:
 
    ```bash
-   git clone <your-repository-url>
+   git clone https://github.com/Prince29chouhan/Twitter_top_trending.git
    cd <your-repository-folder>
    ```
 
-1. **Create a virtual environment (optional but recommended):**:
+2. **Create a virtual environment (optional but recommended):**:
 
    ```bash
    python -m venv venv
@@ -38,14 +38,14 @@ Before running the app, make sure you have the following installed:
 
    ```
 
-1. **Install the required Python packages:**:
+3. **Install the required Python packages:**:
 
    ```bash
    pip install -r requirements.txt
 
    ```
 
-1. **Set up the .env file:**:
+4. **Set up the .env file:**:
    Create a .env file in the root directory and add your credentials and MongoDB configuration:
 
    ```bash
@@ -61,7 +61,7 @@ Before running the app, make sure you have the following installed:
 
    ```
 
-1. **Run the Flask app:**:
+5. **Run the Flask app:**:
 
    ```bash
     python app.py
