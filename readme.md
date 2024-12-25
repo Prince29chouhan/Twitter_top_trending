@@ -89,3 +89,5 @@ If using a cloud database, update the MONGO_URI in the .env file.
 
 
 ```
+
+![alt text](image.png)
